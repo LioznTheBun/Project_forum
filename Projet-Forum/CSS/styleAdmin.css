@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(252, 252, 252);
+    text-align: center;
+}
+
+.php {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.littleTopic {
+    text-align: center;
+}
+
+#answer1 {
+    color: rgb(235, 76, 76);
+}
+
+#answer2 {
+    color: rgb(235, 76, 76);
+}
+
+#title {
+    font-family: Sono;
+}
+
+#title2 {
+    font-family: Changa One;
+    font-size: 40px;
+}
+
+#imgg {
+    height: 40px;
+    width: 40px;
+}
+
+.table {
+    text-align: center;
+    width: 700px;
+}
+
+#choice {
+    width: 65%;
+}
+
+#input {
+    width: 65%;
+}
+
+#submitbutton {
+    width: 40%;
+}

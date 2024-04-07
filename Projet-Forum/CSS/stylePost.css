@@ -1,0 +1,36 @@
+.bodyy {
+    background-color: rgb(252,252,252);
+}
+
+
+#txtinput {
+    width: 85%;
+    height: 105px;
+}
+
+#sujetinput {
+    width: 85%;
+    height: 35px;
+}
+
+#choice {
+    width: 85%;
+    height: 35px;
+}
+
+#submitbutton {
+    width: 35%;
+    height: 35px;
+}
+
+.php {
+    text-align: center;
+}
+
+#answer1 {
+    color:rgb(5, 195, 5);
+}
+
+#answer2 {
+    color:rgb(235, 76, 76);
+}

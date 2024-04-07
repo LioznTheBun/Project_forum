@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #67BE4B;
+}
+
+form {
+    width: 100%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+main {
+    margin: 10px;
+    padding: 2%;
+    min-height: 100%;
+    background-color: white;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+/* Full-width inputs */
+input[type=text],
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Style boutons */
+input[type=submit] {
+    background-color: #53af57;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+input[type=submit]:hover {
+    background-color: white;
+    color: #53af57;
+    border: 1px solid #53af57;
+}
+
+#demonstration{
+    height: 40px;
+    width: 40px;
+}
+
+img {
+    max-width: 250px;
+    max-height: 250px;
+}
+
+footer {
+    position: bottom;
+    bottom: 0;
+    width: 100%;
+}
+
+#mail {
+    text-decoration: none;
+    color: black;
+    border-bottom: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+#buttonmodif {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+    padding: 4px;
+}

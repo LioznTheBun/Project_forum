@@ -1,0 +1,59 @@
+
+.body {
+    background-color: rgb(252, 252, 252);
+    text-align: center;
+}
+
+.php {
+    text-align: center;
+}
+
+.container {
+    display:flex;
+    justify-content: center;
+}
+
+.littleTopic {
+    text-align : center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#choice {
+    width: 50%;
+    height: 35px;
+}
+
+#submitbutton {
+    width: 35%;
+    height: 35px;
+}
+
+#answer1 {
+    color: rgb(235, 76, 76);
+}
+
+#title {
+    font-family: Sono;
+}
+
+#imgg {
+    height: 40px;
+    width: 40px;
+}
+
+#userclick {
+    color: black;
+    text-decoration: none;
+    border-bottom: solid;
+    border-width: 2px;
+}
+
+
+
+
+

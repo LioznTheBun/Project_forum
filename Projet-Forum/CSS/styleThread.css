@@ -1,0 +1,150 @@
+.body {
+    background-color: rgb(252, 252, 252);
+}
+
+.container {
+    text-align: center;
+
+}
+
+#sujetRow {
+    display: flex;
+    justify-content: center;
+}
+
+#sujet {
+    border: solid;
+    border-width: 3px;
+    border-radius: 10px;
+    height: 35px;
+    width: 450px;
+    background-color: rgb(29, 207, 100);
+    border-color:rgb(0, 0, 0);
+}
+
+#contentRow {
+    display: flex;
+    justify-content: center;
+}
+
+#content {
+    border: solid;
+    border-radius: 10px;
+    background-color: rgb(245, 243, 243);
+    border-color: rgb(0, 0, 0);
+    border-width: 3px;
+    height: 600px;
+    width: 1000px;
+}
+
+#comcontent {
+    border: solid;
+    border-radius: 10px;
+    background-color: rgb(245, 243, 243);
+    border-color: rgb(0, 0, 0);
+    border-width: 3px;
+    height: 420px;
+    width: 1000px;
+}
+
+.txt {
+    text-decoration: none;
+    color: black;
+    font-family: Sono;
+}
+
+.txt2 {
+    text-decoration: none;
+    color: white;
+    font-family: Suez One;
+    font-size: 20px;
+   
+}
+
+#submitbutton {
+    width: 35%;
+    height: 35px;
+}
+
+#imgg {
+    width: 60px;
+    height: 60px;
+    border: solid;
+    border-color: black;
+    margin-right: 10px;
+}
+
+#divAvatarPseudo {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.BigTXT {
+    text-decoration: none;
+    color: black;
+    font-family: Sono;
+    font-size: 22px;
+}
+
+#imggR {
+    width: 47px;
+    height: 47px;
+    border: solid;
+    border-color: black;
+    margin-right: 10px;
+}
+
+#divAvatarPseudoR {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.BigTXTR {
+    text-decoration: none;
+    color: black;
+    font-family: Sono;
+    font-size: 17px;
+}
+
+#boutonMS {
+    width: 280px;
+    color: white;
+    border: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+#boutonMSR {
+    width: 220px;
+    color: white;
+    border: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+#divclore {
+    display: flex;
+    justify-content: center;
+    width: 85%;
+}
+
+#clore {
+    display: flex;
+    justify-content: flex-end;
+    color: rgb(237, 32, 32);
+}
+
+#cloremsg {
+    display: flex;
+    justify-content: center;
+    color: rgb(237, 32, 32);
+    font-size: 19px;
+}
+
+#centre {
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+}

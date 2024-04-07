@@ -1,0 +1,41 @@
+
+.body {
+    background-color: rgb(252, 252, 252);
+    text-align: center;
+}
+
+.php {
+    text-align: center;
+}
+
+.container {
+    display:flex;
+    justify-content: center;
+}
+
+.littleTopic {
+    text-align : center;
+}
+
+#choice {
+    width: 50%;
+    height: 35px;
+}
+
+#answer1 {
+    color: rgb(235, 76, 76);
+}
+
+#title {
+    font-family: Sono;
+}
+
+#title2 {
+    font-family: Changa One;
+    font-size: 40px;
+}
+
+
+
+
+
